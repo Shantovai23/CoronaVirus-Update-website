@@ -1,0 +1,102 @@
+
+
+.logo{
+    color: #BDB76B;
+}
+html{
+    scroll-behavior: smooth;
+}
+
+
+
+#home-section{
+   background: url(../download.png) no-repeat;
+    min-height: 600px;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+   
+
+}
+.dark-overlay{
+    background: rgba(0,0,0,0.7);
+    min-height: 600px;
+    
+}
+
+.fa{
+    background: #fff;
+    color:#008ed6;
+    padding: 4px;
+    font-size:15px;
+    border-radius: 5px;
+}
+
+.home-inner{
+    padding-top:100px;   
+}
+#date{
+    font-size: 14px;
+    color: #BDB76B;
+   
+    
+}
+
+.info{
+    font-size: 13px;
+    font-style: italic;
+}
+
+.fas{
+    padding: 4px;
+    font-size: 30px;
+    display: inline;
+}
+
+.num{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.hot{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#Hotline{
+    background: url(/img/subscribe-bg.png) no-repeat;
+    min-height: 600px;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #fff;
+}   
+.lo{
+    display: inline;
+}
+
+.fas2{
+    font-size: 35px;
+    display: inline;
+}
+
+.lock{
+    font-size: 30px;
+}
+.sym{
+    text-align: justify;
+} 
+#Symptoms{
+    background: url(../img/abstract-art-black-background-blur-1040499.jpg);
+    min-height: 400px;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+    
+}
+
+.con{
+  height: 250px;
+  border-radius: 10px;
+}
+
+.conname{
+    font-size: 10px;
+}
