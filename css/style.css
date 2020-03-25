@@ -62,7 +62,7 @@ html{
 }
 
 #Hotline{
-    background: url(/img/subscribe-bg.png) no-repeat;
+    background: url(../img/subscribe-bg.png) no-repeat;
     min-height: 600px;
     background-size: cover;
     background-attachment: fixed;
